@@ -1,0 +1,371 @@
+{
+    "visibility": true,
+    "tillNumber": "123456",
+    "tillName": "GABRIEL",
+    "depositAmount": "100",
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true,
+    "users": [
+        {
+            "userName": "a",
+            "winTime": "10 Minutes ago",
+            "amount": "6000",
+            "phoneNumber": "0707***818"
+        },
+        {
+            "userName": "b",
+            "winTime": "9 Minutes ago",
+            "amount": "1000",
+            "phoneNumber": "0781***392"
+        },
+        {
+            "userName": "c",
+            "winTime": "9 Minutes ago",
+            "amount": "4000",
+            "phoneNumber": "0770***574"
+        },
+        {
+            "userName": "d",
+            "winTime": "10 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0735***639"
+        },
+        {
+            "userName": "e",
+            "winTime": "8 Minutes ago",
+            "amount": "9000",
+            "phoneNumber": "0733***703"
+        },
+        {
+            "userName": "f",
+            "winTime": "9 Minutes ago",
+            "amount": "7000",
+            "phoneNumber": "0712***916"
+        },
+        {
+            "userName": "g",
+            "winTime": "7 Minutes ago",
+            "amount": "1500",
+            "phoneNumber": "0736***120"
+        },
+        {
+            "userName": "h",
+            "winTime": "7 Minutes ago",
+            "amount": "3000",
+            "phoneNumber": "0735***585"
+        },
+        {
+            "userName": "i",
+            "winTime": "6 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0700***048"
+        },
+        {
+            "userName": "j",
+            "winTime": "5 Minutes ago",
+            "amount": "4000",
+            "phoneNumber": "0739***242"
+        },
+        {
+            "userName": "k",
+            "winTime": "5 Minutes ago",
+            "amount": "1000",
+            "phoneNumber": "0706***443"
+        },
+        {
+            "userName": "l",
+            "winTime": "4 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0772***291"
+        },
+        {
+            "userName": "m",
+            "winTime": "3 Minutes ago",
+            "amount": "6000",
+            "phoneNumber": "0750***522"
+        },
+        {
+            "userName": "n",
+            "winTime": "3 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0712***757"
+        },
+        {
+            "userName": "o",
+            "winTime": "2 Minutes ago",
+            "amount": "4000",
+            "phoneNumber": "0773***355"
+        },
+        {
+            "userName": "p",
+            "winTime": "4 Minutes ago",
+            "amount": "400",
+            "phoneNumber": "0753***966"
+        },
+        {
+            "userName": "q",
+            "winTime": "6 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0710***309"
+        },
+        {
+            "userName": "r",
+            "winTime": "3 Minutes ago",
+            "amount": "12000",
+            "phoneNumber": "0799***587"
+        },
+        {
+            "userName": "t",
+            "winTime": "3 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0724***323"
+        },
+        {
+            "userName": "u",
+            "winTime": "2 Minutes ago",
+            "amount": "6000",
+            "phoneNumber": "0702***795"
+        },
+        {
+            "userName": "v",
+            "winTime": "13 Minutes ago",
+            "amount": "10000",
+            "phoneNumber": "0765***617"
+        },
+        {
+            "userName": "w",
+            "winTime": "12 Minutes ago",
+            "amount": "800",
+            "phoneNumber": "0734***739"
+        },
+        {
+            "userName": "x",
+            "winTime": "10 Minutes ago",
+            "amount": "30000",
+            "phoneNumber": "0777***012"
+        },
+        {
+            "userName": "y",
+            "winTime": "9 Minutes ago",
+            "amount": "10000",
+            "phoneNumber": "0781***552"
+        },
+        {
+            "userName": "z",
+            "winTime": "8 Minutes ago",
+            "amount": "40000",
+            "phoneNumber": "0791***540"
+        },
+        {
+            "userName": "a",
+            "winTime": "7 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0756***245"
+        },
+        {
+            "userName": "b",
+            "winTime": "6 Minutes ago",
+            "amount": "300",
+            "phoneNumber": "0709***233"
+        },
+        {
+            "userName": "c",
+            "winTime": "4 Minutes ago",
+            "amount": "1800",
+            "phoneNumber": "0790***832"
+        },
+        {
+            "userName": "d",
+            "winTime": "3 Minutes ago",
+            "amount": "1900",
+            "phoneNumber": "0751***300"
+        },
+        {
+            "userName": "e",
+            "winTime": "1 Minutes ago",
+            "amount": "1200",
+            "phoneNumber": "0720***626"
+        },
+                {
+            "userName": "a",
+            "winTime": "10 Minutes ago",
+            "amount": "6500",
+            "phoneNumber": "0707***818"
+        },
+        {
+            "userName": "b",
+            "winTime": "9 Minutes ago",
+            "amount": "15000",
+            "phoneNumber": "0781***392"
+        },
+        {
+            "userName": "c",
+            "winTime": "9 Minutes ago",
+            "amount": "40000",
+            "phoneNumber": "0770***574"
+        },
+        {
+            "userName": "d",
+            "winTime": "10 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0735***639"
+        },
+        {
+            "userName": "e",
+            "winTime": "8 Minutes ago",
+            "amount": "9000",
+            "phoneNumber": "0733***703"
+        },
+        {
+            "userName": "f",
+            "winTime": "9 Minutes ago",
+            "amount": "7000",
+            "phoneNumber": "0712***916"
+        },
+        {
+            "userName": "g",
+            "winTime": "7 Minutes ago",
+            "amount": "1500",
+            "phoneNumber": "0736***120"
+        },
+        {
+            "userName": "h",
+            "winTime": "7 Minutes ago",
+            "amount": "3000",
+            "phoneNumber": "0735***585"
+        },
+        {
+            "userName": "i",
+            "winTime": "6 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0700***048"
+        },
+        {
+            "userName": "j",
+            "winTime": "5 Minutes ago",
+            "amount": "4000",
+            "phoneNumber": "0739***242"
+        },
+        {
+            "userName": "k",
+            "winTime": "5 Minutes ago",
+            "amount": "1000",
+            "phoneNumber": "0706***443"
+        },
+        {
+            "userName": "l",
+            "winTime": "4 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0772***291"
+        },
+        {
+            "userName": "m",
+            "winTime": "3 Minutes ago",
+            "amount": "6000",
+            "phoneNumber": "0750***522"
+        },
+        {
+            "userName": "n",
+            "winTime": "3 Minutes ago",
+            "amount": "5000",
+            "phoneNumber": "0712***757"
+        },
+        {
+            "userName": "o",
+            "winTime": "2 Minutes ago",
+            "amount": "40000",
+            "phoneNumber": "0773***355"
+        },
+        {
+            "userName": "p",
+            "winTime": "4 Minutes ago",
+            "amount": "4000",
+            "phoneNumber": "0753***966"
+        },
+        {
+            "userName": "q",
+            "winTime": "6 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0710***309"
+        },
+        {
+            "userName": "r",
+            "winTime": "3 Minutes ago",
+            "amount": "1200",
+            "phoneNumber": "0799***587"
+        },
+        {
+            "userName": "t",
+            "winTime": "3 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0724***323"
+        },
+        {
+            "userName": "u",
+            "winTime": "2 Minutes ago",
+            "amount": "600",
+            "phoneNumber": "0702***795"
+        },
+        {
+            "userName": "v",
+            "winTime": "13 Minutes ago",
+            "amount": "1000",
+            "phoneNumber": "0765***617"
+        },
+        {
+            "userName": "w",
+            "winTime": "12 Minutes ago",
+            "amount": "5800",
+            "phoneNumber": "0734***739"
+        },
+        {
+            "userName": "x",
+            "winTime": "10 Minutes ago",
+            "amount": "4300",
+            "phoneNumber": "0777***012"
+        },
+        {
+            "userName": "y",
+            "winTime": "9 Minutes ago",
+            "amount": "5100",
+            "phoneNumber": "0781***552"
+        },
+        {
+            "userName": "z",
+            "winTime": "8 Minutes ago",
+            "amount": "4100",
+            "phoneNumber": "0791***540"
+        },
+        {
+            "userName": "a",
+            "winTime": "7 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0756***245"
+        },
+        {
+            "userName": "b",
+            "winTime": "6 Minutes ago",
+            "amount": "3000",
+            "phoneNumber": "0709***233"
+        },
+        {
+            "userName": "c",
+            "winTime": "4 Minutes ago",
+            "amount": "8000",
+            "phoneNumber": "0790***832"
+        },
+        {
+            "userName": "d",
+            "winTime": "3 Minutes ago",
+            "amount": "9000",
+            "phoneNumber": "0751***300"
+        },
+        {
+            "userName": "e",
+            "winTime": "1 Minutes ago",
+            "amount": "2000",
+            "phoneNumber": "0720***626"
+        }
+      ]
+}
